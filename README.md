@@ -14,4 +14,4 @@
 > * 總支出判讀：顯示還款年限內之「總利息支出」與包含本金在內的「總還款金額」
 > 5. 快速重置：按下「清空」按鈕可將所有欄位恢復至預設值，以便進行下一次試算
 
-<img width="490" height="567" alt="Image" src="https://github.com/user-attachments/assets/c2e4bc46-f0b5-46aa-b1d9-89c3dad46503" />
+
